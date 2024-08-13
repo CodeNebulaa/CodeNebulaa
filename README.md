@@ -1,4 +1,5 @@
 ![banner](https://github.com/CodeNebulaa/CodeNebulaa/blob/main/1719350229229.jpeg)
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Dimuth Lakmina</h1>
 <h3 align="center">A passionate IT Student from Sri lanka</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
